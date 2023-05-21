@@ -1,0 +1,27 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet height="512" resolution="ipad" name="sheet_Top-NewScene" width="2048" filename="spriteSheets/sheet_Top-NewScene-ipad.png">
+  <sprite rect="922,0,237,317" angleDegrees="0" offsetY="-96.110146" scaleX="1.875" name="5-Torso-1.png" offsetX="52.552773" scaleY="1.875"/>
+  <sprite rect="503,0,419,315" angleDegrees="0" offsetY="-122.154" scaleX="1.875" name="2-Goop-1.png" offsetX="38.8908" scaleY="1.875"/>
+  <sprite rect="89,0,414,265" angleDegrees="0" offsetY="-147.6768" scaleX="1.875" name="2-Goop-4.png" offsetX="38.566799" scaleY="1.875"/>
+  <sprite rect="0,0,89,112" angleDegrees="0" offsetY="-51.445202" scaleX="1.875" name="4-Head-1.png" offsetX="-58.0476" scaleY="1.875"/>
+ </spritesheet>
+ <spritesheet height="2048" resolution="ipad-retina" name="sheet_Top-NewScene" width="2048" filename="spriteSheets/sheet_Top-NewScene-ipad-retina.png">
+  <sprite rect="992,518,463,622" angleDegrees="0" offsetY="-192.22029" scaleX="0.9375" name="5-Torso-1.png" offsetX="105.10555" scaleY="0.9375"/>
+  <sprite rect="166,518,826,619" angleDegrees="0" offsetY="-244.308" scaleX="0.9375" name="2-Goop-1.png" offsetX="77.781601" scaleY="0.9375"/>
+  <sprite rect="0,518,166,213" angleDegrees="0" offsetY="-102.8904" scaleX="0.9375" name="4-Head-1.png" offsetX="-116.0952" scaleY="0.9375"/>
+  <sprite rect="638,0,817,518" angleDegrees="0" offsetY="-295.35361" scaleX="0.9375" name="2-Goop-4.png" offsetX="77.133598" scaleY="0.9375"/>
+ </spritesheet>
+ <spritesheet height="256" resolution="iphone" name="sheet_Top-NewScene" width="1024" filename="spriteSheets/sheet_Top-NewScene-iphone.png">
+  <sprite rect="451,0,117,155" angleDegrees="0" offsetY="-45.051628" scaleX="4" name="5-Torso-1.png" offsetX="24.634113" scaleY="4"/>
+  <sprite rect="248,0,203,154" angleDegrees="0" offsetY="-57.259689" scaleX="4" name="2-Goop-1.png" offsetX="18.230062" scaleY="4"/>
+  <sprite rect="48,0,200,130" angleDegrees="0" offsetY="-69.223503" scaleX="4" name="2-Goop-4.png" offsetX="18.078188" scaleY="4"/>
+  <sprite rect="0,0,48,59" angleDegrees="0" offsetY="-24.114937" scaleX="4" name="4-Head-1.png" offsetX="-27.209812" scaleY="4"/>
+ </spritesheet>
+ <spritesheet height="512" resolution="iphone-retina" name="sheet_Top-NewScene" width="2048" filename="spriteSheets/sheet_Top-NewScene-iphone-retina.png">
+  <sprite rect="1020,0,262,350" angleDegrees="0" offsetY="-106.62219" scaleX="1.6901408" name="5-Torso-1.png" offsetX="58.300732" scaleY="1.6901408"/>
+  <sprite rect="556,0,464,349" angleDegrees="0" offsetY="-135.51459" scaleX="1.6901408" name="2-Goop-1.png" offsetX="43.144482" scaleY="1.6901408"/>
+  <sprite rect="97,0,459,292" angleDegrees="0" offsetY="-163.82895" scaleX="1.6901408" name="2-Goop-4.png" offsetX="42.785046" scaleY="1.6901408"/>
+  <sprite rect="0,0,97,123" angleDegrees="0" offsetY="-57.072018" scaleX="1.6901408" name="4-Head-1.png" offsetX="-64.396553" scaleY="1.6901408"/>
+ </spritesheet>
+</spritesheets>

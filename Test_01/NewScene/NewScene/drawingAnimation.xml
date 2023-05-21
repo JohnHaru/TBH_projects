@@ -1,0 +1,17 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top-NewScene" name="NewScene_Top">
+  <drawing node="Drawing" name="16-Drawing" drwId="1"/>
+  <drawing node="Head" name="4-Head" drwId="2">
+   <drw skinId="0" repeat="40" name="4-Head-1.png" frame="1"/>
+   <drw skinId="0" repeat="19" name="4-Head-1.png" frame="42"/>
+  </drawing>
+  <drawing node="Torso" name="5-Torso" drwId="3">
+   <drw skinId="0" repeat="60" name="5-Torso-1.png" frame="1"/>
+  </drawing>
+  <drawing node="Goop" name="2-Goop" drwId="4">
+   <drw skinId="0" repeat="1" name="2-Goop-1.png" frame="1"/>
+   <drw skinId="0" repeat="1" name="2-Goop-4.png" frame="31"/>
+   <drw skinId="0" repeat="1" name="2-Goop-1.png" frame="60"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

@@ -1,0 +1,16 @@
+<skeletons>
+ <skeleton name="Top">
+  <nodes>
+   <read id="0" name="Drawing"/>
+   <read id="1" name="Head"/>
+   <read id="2" name="Torso"/>
+   <read id="3" name="Goop"/>
+  </nodes>
+  <links>
+   <link out="0" in="Top"/>
+   <link out="1" in="Top"/>
+   <link out="2" in="Top"/>
+   <link out="3" in="Top"/>
+  </links>
+ </skeleton>
+</skeletons>

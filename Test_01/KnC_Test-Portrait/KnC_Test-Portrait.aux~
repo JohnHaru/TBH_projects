@@ -1,0 +1,31 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion ID="1" VersionName="KnC_Test-Portrait" Modified="2023-01-03 23:16:52">
+ <Element Name="reference" Folder="reference" ID="1">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+ <Element Name="Chest" Folder="Chest" ID="2">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+ <Element Name="Arm.L" Folder="Arm.L" ID="3"/>
+ <Element Name="Arm.L.hand" Folder="Arm.L.hand" ID="4"/>
+ <Element Name="Arm.R" Folder="Arm.R" ID="5"/>
+ <Element Name="Arm.R.hand" Folder="Arm.R.hand" ID="6"/>
+ <Element Name="Leg.R" Folder="Leg.R" ID="7"/>
+ <Element Name="Leg.L" Folder="Leg.L" ID="8"/>
+ <Element Name="Head" Folder="Head" ID="9">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+ <Element Name="Armor.skirt" Folder="Armor.skirt" ID="10">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+ </Element>
+ <Element Name="Armor.sholder.R" Folder="Armor.sholder.R" ID="11">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+ <Element Name="Armor.sholder.L" Folder="Armor.sholder.L" ID="12"/>
+ <Element Name="Armor.Head" Folder="Armor.Head" ID="13"/>
+ <Element Name="Spear" Folder="Spear" ID="14"/>
+ <Element Name="chest.back" Folder="chest.back" ID="15">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+</SceneVersion>

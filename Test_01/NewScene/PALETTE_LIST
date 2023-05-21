@@ -1,0 +1,4 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/NewScene LINK "S:/TBH Projects/Test_01/NewScene/palette-library/NewScene.plt"
+palette-library/NewScene-clone LINK "S:/TBH Projects/Test_01/NewScene/palette-library/NewScene-clone.plt"
+palette-library/NewScene_pencil_texture LINK "S:/TBH Projects/Test_01/NewScene/palette-library/NewScene_pencil_texture.plt"

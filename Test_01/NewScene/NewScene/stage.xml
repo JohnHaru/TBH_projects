@@ -1,0 +1,8 @@
+<stages>
+ <stage name="NewScene_NewScene">
+  <node skinId="0" name="Head" drwId="2" groupId="0"/>
+  <node skinId="0" name="Torso" drwId="3" groupId="0"/>
+  <node skinId="0" name="Goop" drwId="4" groupId="0"/>
+  <play drawingAnimation="NewScene_Top" skeleton="Top" animation="NewScene_Top" name="Top"/>
+ </stage>
+</stages>
